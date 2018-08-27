@@ -1,6 +1,6 @@
 # exercises
 
-Robotics link:
+Robotics links:
 
 [link](https://github.com/louvrmat000/exercises/blob/master/What%20is%20robotics-%20What%20is%20a%20robot.md)
 

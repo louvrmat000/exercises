@@ -2,4 +2,4 @@ I enjoyed playing lightbot it was fun, and a real head scratcher as the dificult
 
 
 
-[link](https://github.com/louvrmat000/exercises/blob/master/Screen%20Shot%202018-08-28%20at%208.27.36%20AM.png)
+![alt text](https://github.com/louvrmat000/exercises/blob/master/Screen%20Shot%202018-08-28%20at%208.27.36%20AM.png)

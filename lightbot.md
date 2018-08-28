@@ -6,3 +6,5 @@ I enjoyed playing lightbot it was fun, and a real head scratcher as the dificult
 
 
 Light bot is programming even if it is simplified as it makes you drag and drop boxes even if its 6th grade level, with the dificulty curve we could spend a couple more days on it.
+
+in comparison robomind was very easy as it only introduced a couple commands and it didn't have a limmit of function and you did not have to drag and drop so you could repeatatly tap forward instead of forward(12) my second complaint is that it is extreamly short, probably because its an 'hour'(>10 mins) of code.
